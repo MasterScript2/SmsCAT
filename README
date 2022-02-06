@@ -12,11 +12,7 @@ Con esta herramienta puedes enviar mensajes anónimos a cualquier número de tel
 solo recuerda que no me hago responsable por su mal uso. ATENCIÓN, solo puedes enviar un mensaje cada 24 horas.
 ---------------------
 Commands Debian
-sudo bash install.sh
-sudo bash setup.sh
+sudo python3 install.py
 ---------------------
 Commands for termux
-bash install.sh
-bash setup.sh
-
-
+python install.py
